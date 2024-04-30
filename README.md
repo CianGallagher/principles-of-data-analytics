@@ -2,7 +2,7 @@ Penguins Data Analysis
 
 Overview
 
-This repository contains a basic data exploration and correlation analysis of the popular Palmer Penguins dataset. The dataset is comprised of measurements of penguins collected from three species: Adélie, Chinstrap, and Gentoo. 
+This repository contains data exploration and correlation analysis of the popular Palmer Penguins dataset. The dataset is comprised of measurements of penguins collected from three species: Adélie, Chinstrap, and Gentoo. 
 
 The dataset includes the following variables:
 
@@ -29,6 +29,7 @@ Dependencies
     Jupyter Notebook
     pandas
     matplotlib
+    numpy
 
 Research Materials
 
@@ -51,6 +52,8 @@ Research Materials
     https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/pearsons-correlation-coefficient/
 
     https://python-graph-gallery.com/scatterplot-with-regression-fit-in-matplotlib/
+
+    https://data36.com/linear-regression-in-python-numpy-polyfit/
 
 
 
