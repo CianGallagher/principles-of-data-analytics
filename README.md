@@ -50,5 +50,7 @@ Research Materials
 
     https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/pearsons-correlation-coefficient/
 
+    https://python-graph-gallery.com/scatterplot-with-regression-fit-in-matplotlib/
+
 
 
